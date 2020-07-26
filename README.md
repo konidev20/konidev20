@@ -1,16 +1,25 @@
-### Hi there 👋
+### Welcome, I am Srigovind Nayak
 
-<!--
-**konidev20/konidev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- I'm a software developer currently working for BETSOL India
+- I'm learning Python for Data Science Applications and JavaScript Full Stack Development
+- I'm looking to collaborate on any Data Science related project
+- I'm looking for help with my career as a Data Scientist, I want to learn how to build Data rich applications on the cloud
+- You can reach me out through my website : https://srigovindnayak.com
 
-Here are some ideas to get you started:
+### Technical Skills
+- Python 
+- JavaScript, React JS, Gatsby JS, Node JS, Express
+- Java
+- C#
+- PHP5
+- MongoDB, MySQL
+- Netlify, Heroku
+- Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Skills
+- UI & UX Design
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe InDesign
+- Adobe XD (Wireframing and UI Design)

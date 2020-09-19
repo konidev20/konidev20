@@ -8,8 +8,9 @@
 - You can reach me out through my website : https://srigovindnayak.com
 
 ## Technical Skills
-- Python 
+- Python  
 - JavaScript, React JS, Gatsby JS, Node JS, Express
+- Go
 - Java
 - C#
 - PHP5

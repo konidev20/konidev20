@@ -13,6 +13,7 @@
 - Go
 - Java
 - C#
+- .NET Core
 - PHP5
 - MongoDB, MySQL
 - Django

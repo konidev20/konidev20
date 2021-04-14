@@ -6,7 +6,7 @@
 - I'm looking to collaborate on any open-sourced software projects
 - You can reach me out through my website : https://srigovindnayak.com
 
-## Technical Skillset
+## Technical Skills
 - C#, .NET Core & ASP.NET Core
 - Python, Django
 - JavaScript, React JS, Gatsby JS, Node JS, Express
@@ -17,7 +17,7 @@
 - SQL, MySQL, Microsoft SQL
 - Netlify, Heroku
 - Github
-- Microsoft Azure
+- Microsoft Azure (AZ-900 Certified)
 
 ## Other Skills
 - UI & UX Design

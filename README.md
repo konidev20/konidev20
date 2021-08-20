@@ -9,7 +9,14 @@
 C#, Python, JavaScript, Go, Java 
 
 ## CloudOps
-Kubernetes, Docker, Azure (Certified : AZ-900), Netlify
+### Containerization and Orchestration
+Kubernetes, Docker
+### Service Mesh
+Istio
+### Cloud Platforms
+Azure (Certified : AZ-900), Netlify
+### Other Tools
+HashiCorp Vault
 
 ## Frameworks
 ### API Development

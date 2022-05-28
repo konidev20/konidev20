@@ -1,41 +1,16 @@
-# Welcome, I am Srigovind Nayak
+### Hey :wave:, I'm Srigovind Nayak a.k.a Koni 
 
-## About Me
-- I have experience in building end-to-end cloud applications.
-- I'm looking to collaborate on any open-sourced software projects
-- You can reach me out through my website : https://srigovindnayak.com
+I work at BETSOL Software India as a **Software Engineer** in the product team to build a consumer backup solution.
 
-## Programming Languages
-C#, Python, JavaScript, Go, Java 
+### :dart: Focus 
+- Cloud-native development, application delivery and security
+- Open-source development
 
-## CloudOps
-### Containerization and Orchestration
-Kubernetes, Docker
-### Service Mesh
-Istio
-### Cloud Platforms
-Azure (Certified : AZ-900), Netlify
-### Other Tools
-HashiCorp Vault
-
-## Frameworks
-### API Development
-.NET Core, Django, Node JS
-### Web Development 
-React JS, Gatsby JS
-
-## Database
-### NoSQL 
-MongoDB, Redis
-### SQL 
-MySQL, Microsoft SQL, SQLite
-
-## Other Tools
-### Version Control
-GitHub, GitLab
-
-## Other Skills
-### UI & UX Design
-Adobe XD
-### Design
-Adobe Photoshop, Adobe Illustrator, Adobe InDesign
+### :muscle: Technical Skills 
+Cloud Platforms : Azure, AWS
+Cloud Native : Kubernetes, Helm, Docker, Istio, HashiCorp Vault
+Programming & Scripting Languages : C#, Go, Python, JavaScript, Java
+Frameworks : .NET Core, ASP.NET Core, Django, React JS, Gatsby JS, Node JS
+Database Servers : MS-SQL, MySQL, MongoDB, CosmosDB
+Version Control : Git, GitLab, GitHub
+CI/CD : GitLab CI

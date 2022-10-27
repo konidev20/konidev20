@@ -1,7 +1,7 @@
 # Hey 👋, This is konidev20
 I have 2+ years experience with software design and development in a multi-cloud environment. I have proven experience to drive the research and development towards shift-left security, cloud-native application development & delivery. I have designed and lead the development of critical components in the backup domain. 
 
-## 🎯:Focus
+## 🎯Focus
 - Solutions Engineering for multi-cloud
 - Cloud-native development, application delivery, and shift-left security.
 - Open-source development

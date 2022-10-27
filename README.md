@@ -1,15 +1,18 @@
-## Hey :wave:, I'm Srigovind Nayak a.k.a Koni 
-I work at BETSOL Software India as a **Software Engineer** in the product team to build a consumer backup solution.
-## :dart: Focus 
-- Cloud-native development, application delivery and security
+# Hey 👋, This is konidev20
+I have 2+ years experience with software design and development in a multi-cloud environment. I have proven experience to drive the research and development towards shift-left security, cloud-native application development & delivery. I have designed and lead the development of critical components in the backup domain. 
+
+## 🎯:Focus
+- Solutions Engineering for multi-cloud
+- Cloud-native development, application delivery, and shift-left security.
 - Open-source development
-## :muscle: Technical Skills
-- Cloud Platforms : Azure, AWS <br>
-- Cloud Native : Kubernetes, Helm, Docker, Istio, HashiCorp Vault <br>
-- Programming & Scripting Languages : C#, Go, Python, JavaScript, Java <br>
-- Frameworks : .NET Core, ASP.NET Core, Django, React JS, Gatsby JS, Node JS <br>
-- Database Servers : MS-SQL, MySQL, MongoDB, CosmosDB <br>
-- Version Control : Git, GitLab, GitHub <br>
-- CI/CD : GitLab CI 
-## :rocket: Find me on
+
+## 💪 Technical Skills
+- Cloud Platforms: Azure, AWS, Cloudflare
+- Cloud-Native: Kubernetes, Helm, Docker, Istio, HashiCorp Vault
+- Programming: C#, Go, Python, JavaScript
+- Frameworks: .NET Core, gin-gonic
+- Database Servers: MS-SQL, MySQL, MongoDB, CosmosDB, Redis
+- Version Control: Git, GitLab, GitHub
+- CI/CD: GitLab CI
+## 🚀 Find me on
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srigovind-nayak/)  [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sgovindn)

@@ -1,9 +1,6 @@
 # Hey 👋, This is konidev20
-I have 3 years of experience in software design and development. I deliver the R&D items for the core backup & recovery capabilities of Zmanda EBR and Zmanda Endpoint. 
+With 3 years of experience in software design and development, I deliver R&D items for the core backup & recovery capabilities of Zmanda EBR and Zmanda Endpoint at BETSOL. I have proven experience in software architecture, cloud-native application development, and delivery. Additionally, I excel at facilitating effective communication and collaboration among the development team, architects, product owners, and business owners.
 
-I have proven experience in software architecture, cloud-native application development & delivery. 
-
-I facilitate effective communication and collaboration among the development team, architects, product owners, and business owners.
 ## 🎖️Certifications
 - Kubernetes & Cloud Native Associate (KCNA)
 - Microsoft Certified: AZ-900

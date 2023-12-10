@@ -1,15 +1,15 @@
-# Hey 👋, This is konidev20
-With 3 years of experience in software design and development, I deliver R&D items for the core backup & recovery capabilities of [Zmanda EBR](https://www.zmanda.com/) and [Zmanda Endpoint](https://www.zmanda.com/endpoint/). I have proven experience in software design, cloud-native application development, and delivery. Additionally, I excel at facilitating effective communication and collaboration among the development team, architects, product management, and business.
+# Hey 👋, I am Srigovind Nayak
+As a software engineer with 3 years of experience, I work on the core backup & recovery features of [Zmanda](https://zmanda.com), an enterprise backup and recovery product. I have strong skills in software design, cloud-native development, and delivery. I also foster effective communication and collaboration among the development team, architects, product owners, and business owners. I contribute to some open-source projects and share my technical insights on my blog.
 
 ## 🎖️Certifications
-- Kubernetes & Cloud Native Associate (KCNA)
-- Microsoft Certified: AZ-900
+- [Kubernetes & Cloud Native Associate (KCNA)](https://www.credly.com/badges/6fdac8b4-845d-403f-98d1-42dc70663091/public_url)
+- [Microsoft Certified: AZ-900](https://www.credly.com/badges/e27e37f4-ee7a-465a-9c03-1b2a3dcdbf19/public_url)
 
 ## 🎯 Focus
-- Research & Development in the Backup and Disaster Recovery domain.
-- Software Architecture & Design.
-- Cloud-native development, application delivery, and shift-left security.
-- Open-source (OSS) development.
+- Research & Development in the Backup and Disaster Recovery domain
+- Software Architecture & Design
+- Cloud-native development, application delivery, and shift-left security
+- Open-source (OSS) development
 
 ## 💪 Technical Skills
 - Cloud Platforms: Azure, AWS, GCP, Cloudflare

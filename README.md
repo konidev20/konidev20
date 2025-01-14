@@ -4,6 +4,7 @@ As a software engineer with 4 years of experience, I work on the core backup & r
 ## 🎖️Certifications
 - [Kubernetes & Cloud Native Associate (KCNA)](https://www.credly.com/badges/6fdac8b4-845d-403f-98d1-42dc70663091/public_url)
 - [Microsoft Certified: AZ-900](https://www.credly.com/badges/e27e37f4-ee7a-465a-9c03-1b2a3dcdbf19/public_url)
+- [Microsoft Certified: AZ-104 Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/SrigovindNayak-4719/EEEBB9AF9AB4F66F?sharingId=D407A9061D745E47)
 
 ## 🎯 Focus
 - Research & Development in the Backup and Disaster Recovery domain

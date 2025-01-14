@@ -1,5 +1,5 @@
 # Hey 👋, I am Srigovind Nayak
-As a software engineer with 4 years of experience, I work on the core backup & recovery features of [Zmanda](https://zmanda.com), an enterprise backup and recovery product. I have strong skills in software design, cloud-native development, and delivery. I also foster effective communication and collaboration among the development team, architects, product owners, and business owners. I contribute to some open-source projects and share my technical insights on my blog.
+As a software engineer with 4 years of experience, I work on the core backup & recovery features of [Zmanda](https://zmanda.com), an enterprise backup and recovery product. I have strong skills in software design, cloud-native development, and delivery. I foster effective communication and collaboration among the development team, architects, product owners, and business owners. I contribute to open-source projects and share my technical insights on my blog.
 
 ## 🎖️Certifications
 - [Kubernetes & Cloud Native Associate (KCNA)](https://www.credly.com/badges/6fdac8b4-845d-403f-98d1-42dc70663091/public_url)

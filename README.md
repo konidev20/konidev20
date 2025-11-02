@@ -1,5 +1,5 @@
 # Hey 👋, I am Srigovind Nayak
-I am a result-driven software professional focused on helping customers achieve cloud-first digital transformation. With over 4 years of experience in software design, architecture, and development, I deliver value through clear communication and strong leadership. In my free time, I enjoy contributing to open-source projects and writing blog posts about technology.
+I am a result-driven software professional focused on helping customers achieve cloud-first digital transformation. With over 5 years of experience in software design, architecture, and development, I deliver value through clear communication and strong leadership. In my free time, I enjoy contributing to open-source projects and writing blog posts about technology.
 
 ## 🎖️Certifications
 - [Kubernetes & Cloud Native Associate (KCNA)](https://www.credly.com/badges/6fdac8b4-845d-403f-98d1-42dc70663091/public_url)
